@@ -1,0 +1,17 @@
+{
+  "P001": { "name": "Sarah Miller", "city": "Berlin", "age": 28, "gender": "female", "height": 1.65, "weight": 90.0, "bmi": 33.06, "verdict": "Obese" },
+  "P002": { "name": "James Hudson", "city": "Paris", "age": 35, "gender": "male", "height": 1.75, "weight": 85, "bmi": 27.76, "verdict": "Overweight" },
+  "P003": { "name": "Emily Dawson", "city": "Amsterdam", "age": 22, "gender": "female", "height": 1.6, "weight": 45, "bmi": 17.58, "verdict": "Underweight" },
+  "P004": { "name": "Robert Vance", "city": "Madrid", "age": 40, "gender": "male", "height": 1.8, "weight": 95, "bmi": 29.32, "verdict": "Overweight" },
+  "P005": { "name": "Ashley Brooks", "city": "Rome", "age": 30, "gender": "female", "height": 1.55, "weight": 75, "bmi": 31.22, "verdict": "Obese" },
+  "P006": { "name": "Michael Scott", "city": "London", "age": 42, "gender": "male", "height": 1.78, "weight": 80, "bmi": 25.25, "verdict": "Overweight" },
+  "P007": { "name": "Jessica Taylor", "city": "Vienna", "age": 26, "gender": "female", "height": 1.70, "weight": 60, "bmi": 20.76, "verdict": "Normal" },
+  "P008": { "name": "David Clark", "city": "Prague", "age": 31, "gender": "male", "height": 1.85, "weight": 110, "bmi": 32.14, "verdict": "Obese" },
+  "P009": { "name": "Jennifer Lewis", "city": "Dublin", "age": 29, "gender": "female", "height": 1.62, "weight": 52, "bmi": 19.81, "verdict": "Normal" },
+  "P010": { "name": "Christopher Lee", "city": "Lisbon", "age": 38, "gender": "male", "height": 1.72, "weight": 70, "bmi": 23.66, "verdict": "Normal" },
+  "P011": { "name": "Amanda White", "city": "Brussels", "age": 24, "gender": "female", "height": 1.68, "weight": 55, "bmi": 19.49, "verdict": "Normal" },
+  "P012": { "name": "Matthew King", "city": "Stockholm", "age": 45, "gender": "male", "height": 1.82, "weight": 88, "bmi": 26.57, "verdict": "Overweight" },
+  "P013": { "name": "Elizabeth Hall", "city": "Athens", "age": 33, "gender": "female", "height": 1.60, "weight": 78, "bmi": 30.47, "verdict": "Obese" },
+  "P014": { "name": "Daniel Wright", "city": "Warsaw", "age": 27, "gender": "male", "height": 1.76, "weight": 65, "bmi": 20.98, "verdict": "Normal" },
+  "P015": { "name": "Megan Young", "city": "Copenhagen", "age": 36, "gender": "female", "height": 1.73, "weight": 92, "bmi": 30.74, "verdict": "Obese" }
+}
